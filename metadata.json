@@ -1,0 +1,6 @@
+{
+  "name": "Warkah Diraja - Undangan Pernikahan Adat Melayu",
+  "description": "Aplikasi web undangan pernikahan mewah bertema adat Melayu dengan fitur RSVP, galeri foto interaktif, peta lokasi, buku tamu & ucapan doa langsung, hitung mundur, musik latar tradisional, kalender otomatis, dan tautan tamu unik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
