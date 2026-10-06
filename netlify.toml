@@ -1,0 +1,11 @@
+[build]
+  # The project lives at the repository root. This overrides the stale
+  # "sd" base directory configured in the Netlify UI.
+  base = "."
+  command = "npm install && npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
